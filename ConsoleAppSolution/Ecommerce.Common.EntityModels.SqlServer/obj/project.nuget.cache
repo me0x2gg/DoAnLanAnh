@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wkh5Xq0OHmTf+Vm8CxayLfMXbBcBd2VhyAhZ/pcAnUgcTfoWZahjgLlZ/wuq0Fe/kVjkevmgHZxKXHUj2vGVbw==",
+  "dgSpecHash": "JM7LvwwQ5cODuosJL+KCPdLmj0qiG21IBiesQW0Pr1l6HJp3LbtLmTF1vE50zHk6bgtfnjsEEIrTVp44h3FBXA==",
   "success": true,
-  "projectFilePath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.Common.EntityModels.SqlServer\\Ecommerce.Common.EntityModels.SqlServer.csproj",
+  "projectFilePath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.Common.EntityModels.SqlServer\\Ecommerce.Common.EntityModels.SqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OvF908Cusr+JbqwdjrIH4lmX/TK9XBmVTm8uIDrk4bcezO1MYgFW6QHgFVhtmqDXP2FwUutmUX/VurXhgOqK4g==",
+  "dgSpecHash": "UDvKmV3M/8TuVljbZEF5r7uNKMB+rTlTeIVZOFJeMM5/uagjbcNq3dGbmSitYhbDdf3Rqptlm4ahFjREHIfT4g==",
   "success": true,
-  "projectFilePath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.IdentityServer\\Ecommerce.IdentityServer.csproj",
+  "projectFilePath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.IdentityServer\\Ecommerce.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\identityserver4\\4.1.2\\identityserver4.4.1.2.nupkg.sha512",

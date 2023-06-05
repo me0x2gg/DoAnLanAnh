@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HUa9IjDM4eaFLhSgkXGHLvyCqrNJjpdlqreyI3nvnLz1TGXgPiJwjYY4P3DLUtL6wrBBhk4anT9G/cngsnD4Ag==",
+  "dgSpecHash": "Mxjxlw9+sZEvY2NAE2gwLch8FTGXru+88rkb65DmFIukJKqSnNjUHveWR35E8MqXpuErM8Zwg0GLr8QZcwB2ag==",
   "success": true,
-  "projectFilePath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.Common.DataContext.SqlServer\\Ecommerce.Common.DataContext.SqlServer.csproj",
+  "projectFilePath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.Common.DataContext.SqlServer\\Ecommerce.Common.DataContext.SqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

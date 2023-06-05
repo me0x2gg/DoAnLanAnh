@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f+LE8mhNOkfKiIPDqEghRoVTdTC1CAladxHKW2VBFbjbaELKSKMNBpKCK9LovhCadyHjuRFC+HSdJv31l2FxAg==",
+  "dgSpecHash": "nSi8H91BLXLMJ0jlwEluLCRDmTgv08HTEW0dVhwiVmwjtvRg0RQTg+Hxy+F+ZSi9a5c5DhKyfoI9qIkGRnU15w==",
   "success": true,
-  "projectFilePath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.WebApi\\Ecommerce.WebApi.csproj",
+  "projectFilePath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.WebApi\\Ecommerce.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\identitymodel\\4.0.0\\identitymodel.4.0.0.nupkg.sha512",

@@ -17,9 +17,9 @@ namespace Ecommerce.IdentityServer.IdentityConfiguration
                 Password = "password",
                 Claims = new List<Claim>
                 {
-                    new Claim(JwtClaimTypes.Email, "support@benasin.space"),
+                    new Claim(JwtClaimTypes.Email, "support@lananh.space"),
                     new Claim(JwtClaimTypes.Role, "Admin"),
-                    new Claim(JwtClaimTypes.WebSite, "https://benasin.space")
+                    new Claim(JwtClaimTypes.WebSite, "https://lananh.space")
                 }
             },
             new TestUser
@@ -29,9 +29,9 @@ namespace Ecommerce.IdentityServer.IdentityConfiguration
                 Password = "password",
                 Claims = new List<Claim>
                 {
-                    new Claim(JwtClaimTypes.Email, "support@benasin.space"),
+                    new Claim(JwtClaimTypes.Email, "support@lananh.space"),
                     new Claim(JwtClaimTypes.Role, "Client"),
-                    new Claim(JwtClaimTypes.WebSite, "https://benasin.space")
+                    new Claim(JwtClaimTypes.WebSite, "https://lananh.space")
                 }
             },
             new TestUser
@@ -41,9 +41,9 @@ namespace Ecommerce.IdentityServer.IdentityConfiguration
                 Password = "password",
                 Claims = new List<Claim>
                 {
-                    new Claim(JwtClaimTypes.Email, "support@benasin.space"),
+                    new Claim(JwtClaimTypes.Email, "support@lananh.space"),
                     new Claim(JwtClaimTypes.Role, "User"),
-                    new Claim(JwtClaimTypes.WebSite, "https://benasin.space")
+                    new Claim(JwtClaimTypes.WebSite, "https://lananh.space")
                 }
             }
         };

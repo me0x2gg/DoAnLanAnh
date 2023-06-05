@@ -29,7 +29,7 @@ namespace Ecommerce.IdentityServer.IdentityConfiguration
                 DisplayName = "Customer Api",
                 Description = "Allow the application to access Customer Api on your behalf",
                 Scopes = new List<string> { "customerApi.read", "customerApi.write"},
-                ApiSecrets = new List<Secret> {new Secret("benasin".Sha256())},
+                ApiSecrets = new List<Secret> {new Secret("lananh".Sha256())},
                 UserClaims = new List<string> {"role"}
             }
         };

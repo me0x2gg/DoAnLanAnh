@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.IdentityServer\\Ecommerce.IdentityServer.csproj": {}
+    "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.IdentityServer\\Ecommerce.IdentityServer.csproj": {}
   },
   "projects": {
-    "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.IdentityServer\\Ecommerce.IdentityServer.csproj": {
+    "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.IdentityServer\\Ecommerce.IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.IdentityServer\\Ecommerce.IdentityServer.csproj",
+        "projectUniqueName": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.IdentityServer\\Ecommerce.IdentityServer.csproj",
         "projectName": "Ecommerce.IdentityServer",
-        "projectPath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.IdentityServer\\Ecommerce.IdentityServer.csproj",
+        "projectPath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.IdentityServer\\Ecommerce.IdentityServer.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.IdentityServer\\obj\\",
+        "outputPath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

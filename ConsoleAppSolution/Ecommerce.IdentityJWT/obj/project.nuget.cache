@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E82DnCA5bPxpcxWLXSJQqRw1vT6nXeGItQnZvAm9/vXd37o/aTv+KUXzDBEPpHyKpA5Rw2qlIFnbm7khNqjhPw==",
+  "dgSpecHash": "CHjbMRc16xYcbkb1Kfc7obK0UyZG5qT6dtuM/bf8K3hamMiRBLrT5j4Qur8Coj3v8IpIeJdthzEWorwMq7dKkA==",
   "success": true,
-  "projectFilePath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.IdentityJWT\\Ecommerce.IdentityJWT.csproj",
+  "projectFilePath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.IdentityJWT\\Ecommerce.IdentityJWT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.6\\microsoft.aspnetcore.authentication.jwtbearer.6.0.6.nupkg.sha512",

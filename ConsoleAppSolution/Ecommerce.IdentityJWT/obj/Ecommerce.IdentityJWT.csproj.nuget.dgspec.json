@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.IdentityJWT\\Ecommerce.IdentityJWT.csproj": {}
+    "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.IdentityJWT\\Ecommerce.IdentityJWT.csproj": {}
   },
   "projects": {
-    "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.IdentityJWT\\Ecommerce.IdentityJWT.csproj": {
+    "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.IdentityJWT\\Ecommerce.IdentityJWT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.IdentityJWT\\Ecommerce.IdentityJWT.csproj",
+        "projectUniqueName": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.IdentityJWT\\Ecommerce.IdentityJWT.csproj",
         "projectName": "Ecommerce.IdentityJWT",
-        "projectPath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.IdentityJWT\\Ecommerce.IdentityJWT.csproj",
+        "projectPath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.IdentityJWT\\Ecommerce.IdentityJWT.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.IdentityJWT\\obj\\",
+        "outputPath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.IdentityJWT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

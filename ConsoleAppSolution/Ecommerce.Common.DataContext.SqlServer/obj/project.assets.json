@@ -1930,11 +1930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.Common.DataContext.SqlServer\\Ecommerce.Common.DataContext.SqlServer.csproj",
+      "projectUniqueName": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.Common.DataContext.SqlServer\\Ecommerce.Common.DataContext.SqlServer.csproj",
       "projectName": "Ecommerce.Common.DataContext.SqlServer",
-      "projectPath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.Common.DataContext.SqlServer\\Ecommerce.Common.DataContext.SqlServer.csproj",
+      "projectPath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.Common.DataContext.SqlServer\\Ecommerce.Common.DataContext.SqlServer.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.Common.DataContext.SqlServer\\obj\\",
+      "outputPath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.Common.DataContext.SqlServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1951,8 +1951,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.Common.EntityModels.SqlServer\\Ecommerce.Common.EntityModels.SqlServer.csproj": {
-              "projectPath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.Common.EntityModels.SqlServer\\Ecommerce.Common.EntityModels.SqlServer.csproj"
+            "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.Common.EntityModels.SqlServer\\Ecommerce.Common.EntityModels.SqlServer.csproj": {
+              "projectPath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.Common.EntityModels.SqlServer\\Ecommerce.Common.EntityModels.SqlServer.csproj"
             }
           }
         }

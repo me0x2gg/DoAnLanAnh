@@ -16,7 +16,7 @@ builder.Services.AddAuthentication(options =>
     {
         options.Authority = "https://localhost:7241";
         options.ClientId = "oidcMVCApp";
-        options.ClientSecret = "benasin";
+        options.ClientSecret = "lananh";
         options.ResponseType = "code";
         options.UsePkce = true;
         options.ResponseMode = "query";

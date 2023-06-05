@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YDGIm3yxtWstwW7E5AnvvVrQ6/pIbzJqcmMu/pw8K702HXStuMysHhoShh4UPp5dCA52ma4pJOZlvmnbESpi5w==",
+  "dgSpecHash": "Y6ZuGJwj4nXfKBY2tcvpHOp7jx+e9GCm2OasjVxUHrq2mcraf7DR9z9rn+fG3AK17VVj2/sPLfoj73y5Lf+yRg==",
   "success": true,
-  "projectFilePath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.Client\\Ecommerce.Client.csproj",
+  "projectFilePath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.Client\\Ecommerce.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\identitymodel\\6.1.0\\identitymodel.6.1.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.16\\microsoft.aspnetcore.authentication.openidconnect.6.0.16.nupkg.sha512",

@@ -1976,11 +1976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.Common.EntityModels.SqlServer\\Ecommerce.Common.EntityModels.SqlServer.csproj",
+      "projectUniqueName": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.Common.EntityModels.SqlServer\\Ecommerce.Common.EntityModels.SqlServer.csproj",
       "projectName": "Ecommerce.Common.EntityModels.SqlServer",
-      "projectPath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.Common.EntityModels.SqlServer\\Ecommerce.Common.EntityModels.SqlServer.csproj",
+      "projectPath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.Common.EntityModels.SqlServer\\Ecommerce.Common.EntityModels.SqlServer.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\KMA\\Đồ án\\guild\\thesis\\ConsoleAppSolution\\Ecommerce.Common.EntityModels.SqlServer\\obj\\",
+      "outputPath": "D:\\KMA\\Đồ án\\guild\\thesis\\DoAnLanAnh\\ConsoleAppSolution\\Ecommerce.Common.EntityModels.SqlServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,14 +14,14 @@ namespace Ecommerce.IdentityServer.IdentityConfiguration
                     ClientId = "customerApi",
                     ClientName = "ASP.NET Core Customer Api",
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
-                    ClientSecrets = new List<Secret> {new Secret("benasin".Sha256())},
+                    ClientSecrets = new List<Secret> {new Secret("lananh".Sha256())},
                     AllowedScopes = new List<string> {"customerApi.read", "customerApi.write" }
                 },
                 new Client
                 {
                     ClientId = "oidcMVCApp",
                     ClientName = "Sample ASP.NET Core MVC Web App",
-                    ClientSecrets = new List<Secret> {new Secret("benasin".Sha256())},
+                    ClientSecrets = new List<Secret> {new Secret("lananh".Sha256())},
 
                     AllowedGrantTypes = GrantTypes.Code,
                     RedirectUris = new List<string> {"https://localhost:7122/signin-oidc"},

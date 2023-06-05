@@ -21,7 +21,7 @@ namespace Ecommerce.Client.Services
                     Address = _discoveryDocument.TokenEndpoint,
                     ClientId = "customerApi",
                     Scope = apiScope,
-                    ClientSecret = "benasin"
+                    ClientSecret = "lananh"
                 });
                 if (tokenResponse.IsError)
                 {
