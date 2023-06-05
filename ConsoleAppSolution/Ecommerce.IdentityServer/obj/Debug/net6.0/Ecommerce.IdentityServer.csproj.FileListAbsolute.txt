@@ -1,0 +1,72 @@
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\appsettings.Development.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\appsettings.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Ecommerce.IdentityServer.exe
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Ecommerce.IdentityServer.deps.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Ecommerce.IdentityServer.runtimeconfig.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Ecommerce.IdentityServer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Ecommerce.IdentityServer.pdb
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\IdentityModel.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\IdentityServer4.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\IdentityServer4.Storage.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.csproj.AssemblyReference.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.AssemblyInfoInputs.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.AssemblyInfo.cs
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.csproj.CoreCompileInputs.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\staticwebassets.build.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\staticwebassets.development.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\scopedcss\bundle\Ecommerce.IdentityServer.styles.css
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.csproj.CopyComplete
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\refint\Ecommerce.IdentityServer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.pdb
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.genruntimeconfig.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\ref\Ecommerce.IdentityServer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Ecommerce.IdentityServer.staticwebassets.runtime.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.RazorAssemblyInfo.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.RazorAssemblyInfo.cs
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\appsettings.Development.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\appsettings.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Ecommerce.IdentityServer.staticwebassets.runtime.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Ecommerce.IdentityServer.exe
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Ecommerce.IdentityServer.deps.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Ecommerce.IdentityServer.runtimeconfig.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Ecommerce.IdentityServer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Ecommerce.IdentityServer.pdb
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\IdentityModel.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\IdentityServer4.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\IdentityServer4.Storage.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.csproj.AssemblyReference.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.AssemblyInfoInputs.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.AssemblyInfo.cs
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.csproj.CoreCompileInputs.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.RazorAssemblyInfo.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.RazorAssemblyInfo.cs
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\staticwebassets.build.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\staticwebassets.development.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\scopedcss\bundle\Ecommerce.IdentityServer.styles.css
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.csproj.CopyComplete
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\refint\Ecommerce.IdentityServer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.pdb
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\Ecommerce.IdentityServer.genruntimeconfig.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityServer\obj\Debug\net6.0\ref\Ecommerce.IdentityServer.dll

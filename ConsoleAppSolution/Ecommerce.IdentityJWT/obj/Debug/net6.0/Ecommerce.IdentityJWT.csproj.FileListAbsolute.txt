@@ -1,0 +1,28 @@
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\bin\Debug\net6.0\Ecommerce.IdentityJWT.deps.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\bin\Debug\net6.0\Ecommerce.IdentityJWT.runtimeconfig.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\bin\Debug\net6.0\Ecommerce.IdentityJWT.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\bin\Debug\net6.0\Ecommerce.IdentityJWT.pdb
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.csproj.AssemblyReference.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.AssemblyInfoInputs.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.AssemblyInfo.cs
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.csproj.CoreCompileInputs.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\refint\Ecommerce.IdentityJWT.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.pdb
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.genruntimeconfig.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\ref\Ecommerce.IdentityJWT.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\bin\Debug\net6.0\Ecommerce.IdentityJWT.deps.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\bin\Debug\net6.0\Ecommerce.IdentityJWT.runtimeconfig.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\bin\Debug\net6.0\Ecommerce.IdentityJWT.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\bin\Debug\net6.0\Ecommerce.IdentityJWT.pdb
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.csproj.AssemblyReference.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.GeneratedMSBuildEditorConfig.editorconfig
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.AssemblyInfoInputs.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.AssemblyInfo.cs
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.csproj.CoreCompileInputs.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\refint\Ecommerce.IdentityJWT.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.pdb
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\Ecommerce.IdentityJWT.genruntimeconfig.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.IdentityJWT\obj\Debug\net6.0\ref\Ecommerce.IdentityJWT.dll

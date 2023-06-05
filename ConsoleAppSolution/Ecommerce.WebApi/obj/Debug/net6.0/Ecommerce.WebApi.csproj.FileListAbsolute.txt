@@ -1,0 +1,160 @@
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\appsettings.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.WebApi.exe
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.WebApi.deps.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.WebApi.runtimeconfig.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.WebApi.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.WebApi.pdb
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.Common.EntityModels.SqlServer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.IdentityJWT.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.pdb
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.IdentityJWT.pdb
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.Common.EntityModels.SqlServer.pdb
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.csproj.AssemblyReference.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.AssemblyInfoInputs.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.AssemblyInfo.cs
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.csproj.CoreCompileInputs.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\scopedcss\bundle\Ecommerce.WebApi.styles.css
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.csproj.CopyComplete
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\refint\Ecommerce.WebApi.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.pdb
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.genruntimeconfig.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\ref\Ecommerce.WebApi.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\IdentityModel.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\IdentityServer4.AccessTokenValidation.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\appsettings.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.WebApi.exe
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.WebApi.deps.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.WebApi.runtimeconfig.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.WebApi.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.WebApi.pdb
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\IdentityModel.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\IdentityServer4.AccessTokenValidation.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.Common.EntityModels.SqlServer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.IdentityJWT.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.pdb
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.IdentityJWT.pdb
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\bin\Debug\net6.0\Ecommerce.Common.EntityModels.SqlServer.pdb
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.csproj.AssemblyReference.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.AssemblyInfoInputs.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.AssemblyInfo.cs
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.csproj.CoreCompileInputs.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\scopedcss\bundle\Ecommerce.WebApi.styles.css
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.csproj.CopyComplete
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\refint\Ecommerce.WebApi.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.pdb
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\Ecommerce.WebApi.genruntimeconfig.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.WebApi\obj\Debug\net6.0\ref\Ecommerce.WebApi.dll

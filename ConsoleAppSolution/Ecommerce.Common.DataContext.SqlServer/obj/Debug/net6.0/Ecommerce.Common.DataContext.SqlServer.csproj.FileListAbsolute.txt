@@ -1,0 +1,30 @@
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\bin\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.deps.json
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\bin\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\bin\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.pdb
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\bin\Debug\net6.0\Ecommerce.Common.EntityModels.SqlServer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\bin\Debug\net6.0\Ecommerce.Common.EntityModels.SqlServer.pdb
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.AssemblyInfo.cs
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.csproj.CopyComplete
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\refint\Ecommerce.Common.DataContext.SqlServer.dll
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.pdb
+D:\.NET_Web\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\ref\Ecommerce.Common.DataContext.SqlServer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\bin\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.deps.json
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\bin\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\bin\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.pdb
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\bin\Debug\net6.0\Ecommerce.Common.EntityModels.SqlServer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\bin\Debug\net6.0\Ecommerce.Common.EntityModels.SqlServer.pdb
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.AssemblyInfo.cs
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.csproj.CopyComplete
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\refint\Ecommerce.Common.DataContext.SqlServer.dll
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\Ecommerce.Common.DataContext.SqlServer.pdb
+D:\KMA\Đồ án\guild\thesis\ConsoleAppSolution\Ecommerce.Common.DataContext.SqlServer\obj\Debug\net6.0\ref\Ecommerce.Common.DataContext.SqlServer.dll
